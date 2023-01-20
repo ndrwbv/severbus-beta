@@ -1,0 +1,12 @@
+{
+  "name": "severbus-beta",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ndrwbv/severbus-beta.git",
+  "author": "Andrew Boev <ndrwbv@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://ndrwbv.github.io/severbus-beta",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
